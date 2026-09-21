@@ -3,7 +3,7 @@ I needed to make the EV battery state of charge % from my vehicle accessible pro
 
 ## Vgate iCar Pro WiFi
 
-The [Vgate iCar 2 WiFi](https://www.vgatemall.com/products-detail/i-20/) is [available on eBay](https://www.ebay.co.uk/itm/315178202059) for ~£16 (or AliExpress for less).  It plugs into the OBD2 port of the vehicle and is small and unobtrusive enough to leave plugged in inside the car permanently.
+The [Vgate iCar 2 WiFi](https://www.vgatemall.com/products-detail/i-20/) is [available on AliExpress](https://www.aliexpress.com/item/32774201469.html).  It plugs into the OBD2 port of the vehicle and is small and unobtrusive enough to leave plugged in inside the car permanently.
 
 Internally it consists of: 
 
